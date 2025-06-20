@@ -18,4 +18,17 @@ nav a {
 
 h1 {
   color: #003366;
+ margin-bottom: 10px;
+}
+
+h2 {
+  color: #336699;
+  margin-top: 20px;
+}
+
+pre {
+  background-color: #eeeeee;
+  padding: 10px;
+  border-radius: 5px;
+  font-family: monospace;
 }
